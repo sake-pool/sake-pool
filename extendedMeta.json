@@ -1,12 +1,12 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
-        "location": "London, England",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/sake-pool/sake-pool/main/SakePoolIcon_64_64.png",
+        "url_png_logo": "",
+        "location": "Kyoto, Japan",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "sakepool_ada",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -14,46 +14,39 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "Provide long-term, low-cost staking.Also, with 18 years of experience as an engineer, we will provide you with high quality operation.Please consider SAKE for your delegation :)",
+            "server": "Relay: AWS 2core CPU / 8G memory /360G SSD, BP:AWS 2core CPU / 8G memory /360G SSD",
+            "company": ""
         }
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "37d2b23f574680a88198e99cc884b6cf9292ce3500467584cb5093f2",
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "37d2b23f574680a88198e99cc884b6cf9292ce3500467584cb5093f2",
     },
     "telegram-admin-handle": {
-        "0": "your_tg_handle"
+        "0": ""
     },
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "relay 1",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": ""
             },
             "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
                 "name": "block producer home",
                 "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": ""
             }
         }
     }
