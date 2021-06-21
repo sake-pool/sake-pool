@@ -4,17 +4,17 @@
         "url_png_logo": "https://user-images.githubusercontent.com/85638021/122804470-eb89bd00-d302-11eb-8670-213951220ac1.png",
         "location": "Kyoto, Japan",
         "social": {
-            "twitter_handle": "sakepool_ada",
+            "twitter_handle": "sakepool_ada"
     },
     "about": {
             "me": "Provide long-term, low-cost staking.Also, with 18 years of experience as an engineer, we will provide you with high quality operation.Please consider SAKE for your delegation :)",
-            "server": "Relay: AWS 2core CPU / 8G memory /360G SSD, BP:AWS 2core CPU / 8G memory /360G SSD",
+            "server": "Relay: AWS 2core CPU / 8G memory /360G SSD, BP:AWS 2core CPU / 8G memory /360G SSD"
         }
     },
     "my-pool-ids": {
-        "0": "37d2b23f574680a88198e99cc884b6cf9292ce3500467584cb5093f2",
+        "0": "37d2b23f574680a88198e99cc884b6cf9292ce3500467584cb5093f2"
     },
     "when-satured-then-recommend": {
         "0": "788898a81174665316af96880459dcca053f7825abb1b0db9a433630"
-    },
+    }
 }
