@@ -1,53 +1,17 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/sake-pool/sake-pool/main/SakePoolIcon_64_64.png",
         "url_png_logo": "",
         "location": "Kyoto, Japan",
         "social": {
             "twitter_handle": "sakepool_ada",
-            "telegram_handle": "",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
-        },
-        "about": {
+    },
+    "about": {
             "me": "Provide long-term, low-cost staking.Also, with 18 years of experience as an engineer, we will provide you with high quality operation.Please consider SAKE for your delegation :)",
             "server": "Relay: AWS 2core CPU / 8G memory /360G SSD, BP:AWS 2core CPU / 8G memory /360G SSD",
-            "company": ""
         }
     },
     "my-pool-ids": {
         "0": "37d2b23f574680a88198e99cc884b6cf9292ce3500467584cb5093f2",
     },
-    "when-satured-then-recommend": {
-        "0": "37d2b23f574680a88198e99cc884b6cf9292ce3500467584cb5093f2",
-    },
-    "telegram-admin-handle": {
-        "0": ""
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1",
-                "type": "relay",
-                "key": ""
-            },
-            "1": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": ""
-            }
-        }
-    }
 }
