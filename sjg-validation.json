@@ -4,5 +4,5 @@
 "discordId":"794496507326890004",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/sake-pool/sake-pool/main/poolMetaData.json",
-"validation":"https://xstakepool.com/sjg-validation.json"
+"validation":"https://raw.githubusercontent.com/sake-pool/sake-pool/main/sjg-validation.json"
 }
