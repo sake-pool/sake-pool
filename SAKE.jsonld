@@ -58,16 +58,16 @@
   "body": {
     "doNotList": false,
     "givenName": {
-      "@value": "SAKE"
+      "@value": "sake"
     },
     "motivations": {
       "@value": ""
     },
     "objectives": {
-      "@value": "Cardano Value Enhancement"
+      "@value": ""
     },
     "paymentAddress": {
-      "@value": "addr1q8grd2qq7w404fee5swfz8wadyx4998zf6u0khx7fp74sk3n0m9x7wzwjw5qcrx60tyz94s7ef5lgu7p7n8q3ltas6vss38t3v"
+      "@value": ""
     },
     "qualifications": {
       "@value": ""
